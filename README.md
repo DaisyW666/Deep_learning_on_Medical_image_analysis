@@ -3,7 +3,7 @@ This is the repository to store the raw data and source code of the study on ana
 
 Please cite the following study if use the information in this repository:
 
-Trends in the application of deep learning networks in medical image analysis: evolution between 2012 and 2020.
+*Trends in the application of deep learning networks in medical image analysis: evolution between 2012 and 2020.*
 
 ## Introduction of how to reproduce the result in the above study using the files in this repository.
 
